@@ -1,11 +1,11 @@
 ## HTML METHOD
----
+
 ### Method Requirements
 * A few braincells
 * Website that you can edit
 * Discord Webhook
 
------
+
 
 ## Instructions
 
