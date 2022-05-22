@@ -10,7 +10,10 @@
 <img style="border-radius: 2px;box-shadow: 0 4px 8px rgba(0,0,0,.75);" src="https://img.shields.io/badge/author-doritovz-orange.svg?style=for-the-badge&logo=github"></img>
 </a>
 </p>
-
+<p align="center">
+<img style="border-radius: 2px;box-shadow: 0 4px 8px rgba(0,0,0,.75);" src="https://img.shields.io/static/v1?label= &message=HTML&color=orange&style=for-the-badge"></img>
+<img style="border-radius: 2px;box-shadow: 0 4px 8px rgba(0,0,0,.75);" src="https://img.shields.io/static/v1?label= &message=JAVASCRIPT&color=yellow&style=for-the-badge"></img>
+</p>
 
 ## Instructions
 
