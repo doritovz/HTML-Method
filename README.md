@@ -1,4 +1,5 @@
 ## HTML METHOD
+*WARNING*: This method has been patched once Roblox had cross site scripting policy (basically let roblox get embedded, was the main function of the method).
 
 ### Method Requirements
 * A few braincells
